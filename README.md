@@ -56,9 +56,3 @@ The project uses the [Fake and Real News Dataset](https://www.kaggle.com/dataset
 
 ---
 
-## 🔮 Usage
-
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
