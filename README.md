@@ -52,7 +52,7 @@ The project uses the [Fake and Real News Dataset](https://www.kaggle.com/dataset
 
 - **Confusion Matrix (Test Set):**
 
-![Confusion Matrix](confusion_matrix.png)
+See Confusion Matrix png file
 
 ---
 
